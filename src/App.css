@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+table, th, td {
+  border:1.5px solid black;
+  font-family: Bahnschrift;
+  font-size: 20px;
+  }
+  th {
+    background-color: #2220b6;
+    color: white;
+    font-family: Bahnschrift;
+    font-size: 25px;
+}
+  h1{
+    font-family: Bahnschrift;
+    font-size: 30px;
+    text-align: center;
+  }
+  h2{
+    font-family: Bahnschrift;
+    font-size: 27px;
+    text-align: center;
+  }
